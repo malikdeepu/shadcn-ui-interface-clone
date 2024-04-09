@@ -396,6 +396,13 @@ body {
   left: 0;
   z-index: 1;
 }
+.position-1{
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
+   background-color: #09090b;
+}
 #foot {
   color: #6c6c73;
   font-size: 16px;
