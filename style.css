@@ -30,7 +30,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  gap: 30px;
+  gap: 20px;
   font-size: 20px;
   padding: 15px;
   padding-bottom: 5px;
@@ -395,6 +395,7 @@ body {
   top: 0;
   left: 0;
   z-index: 1;
+    backdrop-filter: blur(6px);
 }
 .position-1{
   position: sticky;
