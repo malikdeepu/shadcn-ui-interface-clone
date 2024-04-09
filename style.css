@@ -59,6 +59,10 @@ body {
 .nav:hover {
   color: #f1f1f1;
 }
+.bar{
+  color:white;
+  padding:5px;
+}
 .bar:hover {
   background-color: #242427;
   color: white;
