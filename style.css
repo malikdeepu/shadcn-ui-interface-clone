@@ -173,6 +173,8 @@ body {
   border: 1px solid #1a1a1d;
   overflow-y: scroll;
   overflow-x: hidden;
+  scrollbar-width: 8px;
+  scrollbar-color: #27272a #09090b;
 }
 .grid-item-3 {
   border: 1px solid #1a1a1d;
