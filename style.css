@@ -261,6 +261,16 @@ body {
   border-radius: 8px;
   padding: 10px;
 }
+.content-middle-1 {
+  border: 1px solid #27272a;
+  background-color: #09090b;
+  margin: 10px;
+  border-radius: 8px;
+  padding: 10px;
+}
+.content-middle-1:hover {
+  background-color: #27272a;
+}
 .header-1 {
   display: flex;
   flex-direction: row;
