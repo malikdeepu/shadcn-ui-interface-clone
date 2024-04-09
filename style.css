@@ -62,6 +62,8 @@ body {
 .bar{
   color:white;
   padding:5px;
+  border-radius: 5px;
+  padding-bottam:1px;
 }
 .bar:hover {
   background-color: #242427;
