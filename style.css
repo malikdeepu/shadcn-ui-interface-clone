@@ -360,6 +360,7 @@ body {
   background-color: #09090b;
   border: 1px solid #171719;
   margin: 20px;
+  color: white;
 }
 .information {
   display: flex;
